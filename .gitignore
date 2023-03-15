@@ -1,0 +1,10 @@
+# Evite o upload acidental dos arquivos de design Sketch e Figma
+*.sketch
+*.fig
+
+#Evite o upload acidental do XD se você converter o arquivo de design
+*.xd
+
+# Evite que seu projeto fique cheio de arquivos .DS_Store irritantes!
+.DS_Store
+.prettierignore
